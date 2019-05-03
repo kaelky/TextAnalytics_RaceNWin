@@ -1,0 +1,15 @@
+Untuk menjalankan program Sentiment Analysis Rapi terdapat beberapa file yang diperlukan, yaitu
+1. negative_koto
+2. positif_vania
+3. positive_koto
+4. stopwords
+5. all_indo_man_tag_corpus_model.crf.tagger
+6. negative_vania
+7. train_set
+8. test_set
+9. tester_set
+
+Selain itu, diperlukan instalasi pada modul berikut,
+1. Sastrawi
+2. python-crfsuite
+3. nltk
